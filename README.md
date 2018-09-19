@@ -7,5 +7,6 @@ hello there can everyone write their name down here and do a commit:
   - Jaron Louers
   - Leo Genota
   - Ange Nadje
+  - Nathan Nti
 
 Code Breaker starts in 2 Days and 20 hours.
