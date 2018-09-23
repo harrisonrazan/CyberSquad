@@ -14,11 +14,11 @@ void checkNumber();
 
 int main() {
 	palindrome();
-	/*sortFile();
+	sortFile();
 	removeVowel();
 	search();
 	checkNumber();
-	*/
+
 	cout << "If this prints out, chances are your code works :D" << endl;
 	return 0;
 }
