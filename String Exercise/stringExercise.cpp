@@ -6,8 +6,6 @@ using namespace std;
 
 ifstream fin;
 
-
-
 void palindrome();
 void sortFile();
 void removeVowel();
